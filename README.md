@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Fyatu](https://fyatu.com/) and [PesaPay](https://pesapay.org/)
 - 🌱 I’m currently learning **Flutter**
 - 👨‍💻 Some of my projects are available at [https://github.com/feljor](https://github.com/feljor)
-- 💬 Ask me about **Android, Java, PHP Frameworks (Laravel & CodeIgniter)**
+- 💬 Ask me about **Online Business, Android, Java, SQL Databases, SQLite, Git & GitHub, PHP Frameworks (Laravel & CodeIgniter)**
 - 📫 How to reach me: **sitefeljor@gmail.com**
 - ⚡ Fun fact: **[2018: Congo's young influencer prize](https://magazinekivuzik.com/jeunes-influents/)**
 
