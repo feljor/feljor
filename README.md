@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feljor" alt="feljor" /> </p>
 
 - 👨‍💼 I’m CEO at [MerciPro](https://mercipro.org/)
-- 🔭 I’m currently working on [Fyatu](https://fyatu.com/) and [PesaPay](https://pesapay.org/)
+- 🔭 I’m currently working on **FYATU.**
 - 🌱 I’m currently learning **Flutter**
 - 👨‍💻 Some of my projects are available at [https://github.com/feljor](https://github.com/feljor)
 - 💬 Ask me about **Online Business, Android, Java, SQL Databases, SQLite, Git & GitHub, PHP Frameworks (Laravel & CodeIgniter)**
