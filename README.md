@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Félix Maroy</h1>
-<h3 align="center">A passionate Entrepreneur and Mobile developer from Congo </h3>
+<h3 align="center">A fullstack developer from Congo </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feljor" alt="feljor" /> </p>
 
 - 👨‍💼 I’m a full stack developer
 - 🔭 I’m currently working on **[FYATU](https://fyatu.com/)**
 - 🌱 I’m currently learning **Flutter**
-- 👨‍💻 Some of my projects are available at [https://github.com/feljor](https://github.com/feljor)
+- 👨‍💻 Some of my open source projects are available at [https://github.com/feljor](https://github.com/feljor)
 - 💬 Ask me about **Online Business, Android, Java, SQL Databases, SQLite, Git & GitHub, PHP Frameworks (Laravel & CodeIgniter)**
 - 📫 How to reach me: **sitefeljor@gmail.com**
 - ⚡ Fun fact: **[2018: Congo's young influencer prize](https://magazinekivuzik.com/jeunes-influents/)**
