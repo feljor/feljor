@@ -4,7 +4,6 @@
 
 - 👨‍💼 I’m a full stack developer
 - 🔭 I’m currently working on **[FYATU](https://fyatu.com/)**
-- 🌱 I’m currently learning **Flutter**
 - 👨‍💻 Some of my open source projects are available at [https://github.com/feljor](https://github.com/feljor)
 - 💬 Ask me about **Online Business, Android, Java, SQL Databases, SQLite, Git & GitHub, PHP Frameworks (Laravel & CodeIgniter)**
 - 📫 How to reach me: **sitefeljor@gmail.com**
